@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: #A8C3F9;
+    display: flex;
+    justify-content: center; 
+    font-family: 'Original Surfer', cursive;
+}
+main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 40rem;
+    padding-bottom: 4rem;
+}
+h1 {
+    text-align: center;
+}
+.jockfall {
+    width: 100%;
+}
+.h-100 {
+    height: 100%;
+}
